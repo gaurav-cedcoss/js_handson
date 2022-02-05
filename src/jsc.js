@@ -1,6 +1,7 @@
-function functionWithArgs(a1,a2){
-    console.log( a1+a2);
+function timesFive(ar){
+    return (ar*5);
   }
-  functionWithArgs(1,2);
-  functionWithArgs(7,9);
   
+  console.log(timesFive(5));
+  console.log(timesFive(2));
+  console.log(timesFive(0));
