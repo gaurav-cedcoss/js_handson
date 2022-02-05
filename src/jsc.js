@@ -1,1 +1,4 @@
-var a=9;
+var myFirstName, myLastName;
+myFirstName = "Gaurav" ;
+
+myLastName = "Shukla";
