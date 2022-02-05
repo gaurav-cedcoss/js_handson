@@ -1,1 +1,1 @@
-const quotient = 66 / 33;
+const remainder = 11%3;
