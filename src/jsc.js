@@ -1,12 +1,9 @@
-function trueOrFalse(wasThatTrue) {
-    // Only change code below this line
+// Setup
+function testEqual(val) {
+    if (val==12) { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
   
-  if(wasThatTrue==true){
-    return "Yes, that was true";
-  }
-  if(wasThatTrue==false){ 
-    return "No, that was false";
-  }
-    // Only change code above this line
-  
-  }
+  testEqual(10);
