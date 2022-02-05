@@ -1,1 +1,1 @@
-const product = 2.0 * 2.5;
+const quotient = 66 / 33;
